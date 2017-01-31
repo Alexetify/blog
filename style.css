@@ -1,7 +1,11 @@
-footer{
+footer {
     text-align: center;
 }
-.article{
-    margin-top: 80px;
-    margin-bottom: 50px;
+
+article {
+    margin-top: 50px;
 }
+
+.admin-table {
+	width: 100%;
+} 
